@@ -2,3 +2,5 @@ python-whois
 requests
 beautifulsoup4
 builtwith
+pypdf
+lxml
